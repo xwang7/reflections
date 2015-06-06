@@ -1,0 +1,5 @@
+what happens when you initialize a repository?
+I created a .git  hidden file in my current directory.
+
+why do you need to do it?
+Only after initialize the folder then I can use it to commit files.
