@@ -12,3 +12,6 @@ it can be added to repository
 
 how can you use the staging area to make sure you have one commit per logical change?
 by comparing the stage file with commit file.
+
+what are some situations when branches would be helpful in keeping your history organized?
+when you want to try different things or try different algo.
