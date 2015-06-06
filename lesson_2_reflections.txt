@@ -3,3 +3,9 @@ I created a .git  hidden file in my current directory.
 
 why do you need to do it?
 Only after initialize the folder then I can use it to commit files.
+
+how is staging area different from the working directory and the repository?
+stage area is kind of like middle state. if you commit then it go to repository. any file in working directory need to go to stage area first then it can be added.
+
+what value do you think it offers?
+it can be added to repository
