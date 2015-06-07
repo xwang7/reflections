@@ -8,3 +8,6 @@ I don't want to update every time but finished some milestone then manually upda
 
 Describe the differences between forks,clones, and branches. when would you use one instead of another?
 forks used for cloneing repository from other's repository to your github respository. clone used for clone repository from local to local or github to local. branches is used for make some tags.
+
+What's the benefit of having a copy of the last known state of the remote stored locally?
+so you can compare difference and know what changes have been made remotely when you pull.
