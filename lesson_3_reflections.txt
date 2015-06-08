@@ -11,3 +11,6 @@ forks used for cloneing repository from other's repository to your github respos
 
 What's the benefit of having a copy of the last known state of the remote stored locally?
 so you can compare difference and know what changes have been made remotely when you pull.
+
+how would you collaborate without using Git or Github? and what would be easier, and what would be harder?
+if without Git or Github we need to compare each code thoroughly and not easily to find the difference. Git will be easier.
